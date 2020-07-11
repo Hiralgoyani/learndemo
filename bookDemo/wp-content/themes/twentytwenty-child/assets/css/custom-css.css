@@ -1,0 +1,13 @@
+body {background: #f9f9f9; }
+.container {width: 1350px; margin: auto; }
+.entry-content-cls {margin: 50px 0; }
+.small-12.large-4.columns {display: inline-grid; width: 24%; margin: 0 auto; }
+.pcblog-boxs {text-align: center; }
+h5 a {text-transform: none; text-decoration: none; font-size: 18px; color: #000; }
+.pcblog-posts .img {padding: 0 53px; }
+.pcblog-buttons {text-align: center; }
+.pcblog-buttons button {background-color: #000 !important; }
+.tag-list {margin: 20px 0; }
+.tag-span{cursor:pointer;font-weight: 500;font-size: 16px; padding: 0 10px;text-transform: capitalize;}
+.tag-span:hover{color: #cd2653;}
+span.tag-head {font-weight: 700; font-size: 20px; }
