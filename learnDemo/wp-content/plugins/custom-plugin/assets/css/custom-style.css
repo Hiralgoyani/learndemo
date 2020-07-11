@@ -1,0 +1,12 @@
+td.text-capi {text-transform: capitalize; }
+.container.cust-wrapper{padding: 20px 0; }
+.font-icon-size {cursor: pointer; font-size: 18px !important; }
+i.fa.fa-trash.font-icon-size {color: red; }
+i.fa.fa-pencil.font-icon-size {color: green; }
+.font-icon-size:hover {transform: scale(1.3); }
+#upregEmpForm .form-control {border: none; background: #fff; padding: 20px 0; -webkit-box-shadow: none; }
+#upregEmpForm .form-control label {width: 22%; }
+img#upImage {position: absolute; }
+#uemp_profile {position: relative; padding-left: 70px; }
+.sub-btn-div{margin-top: 42px; }
+.red {color: red; font: 12px }

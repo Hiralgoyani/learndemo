@@ -1,0 +1,18 @@
+.reg-form-container {
+    width: 700px;
+    margin: auto;
+    padding: 70px 0;
+}
+input#emp_name, input#emp_email, input#emp_password, input#emp_dob {
+    padding: 0 5px;
+}
+input#emp_dob {
+    padding: 7px;
+}
+input#emp_profile {
+    margin: 0 0 25px 0;
+}
+span.red {
+    color: red;
+    font-size: 12px;
+}
